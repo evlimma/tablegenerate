@@ -14,7 +14,7 @@ Facilite a criação de tabelas HTML com PHP [https://omie.com.br/](https://omie
 Data Layer is available via Composer:
 
 ```bash
-"evlimma/tablegenerate": "dev-main"
+"evlimma/tablegenerate": "1.0.*"
 ```
 
 or run
