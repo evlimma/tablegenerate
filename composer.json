@@ -1,0 +1,29 @@
+{
+    "name": "evlimma/tablegenerate",
+    "description": "Make creating HTML tables easy with PHP | Facilite a criação de tabelas HTML com PHP",
+    "type": "library",
+    "version": "1.0",
+    "keywords": [
+        "Evlimma",
+        "CodigoSpace",
+        "table",
+        "HTML"
+    ],
+    "homepage": "http://www.codigospace.com.br",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Everton Lima",
+            "email": "contato@codigospace.com.br",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "EvLimma\\TableGenerate\\": "src"
+        }
+    }
+}
