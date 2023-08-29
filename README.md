@@ -6,7 +6,7 @@ Facilite a criação de tabelas HTML com PHP [https://omie.com.br/](https://omie
 
 ### Highlights
 
-- Easy to set up (Fácil de configurar) 1
+- Easy to set up (Fácil de configurar)
 
 
 ## Installation
